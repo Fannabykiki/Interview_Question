@@ -1,0 +1,9 @@
+Tên, tuổi, học ở trường nào, đã ra trường chưa? thời gian có tập trung cho công việc được không?
+kinh nghiệm, dã từng làm ngôn ngữ gì ? thích code ngôn ngữ gì? thích frontend hay backend? 
+biết javascript ở mức độ nào?  ứng dụng như thế nào?
+em cảm thấy các ngôn ngữ dã học có đặc điểm gì và em muốn làm ngôn ngữ nào?
+folder tree trong html?
+có biết VB .NET không?
+em biết code macro trong excel không?
+nếu dự án bắt em làm ngôn ngữ khác thì sao? em sẽ học trong bao lâu?
+Em có sẵn sàng làm thêm giờ không?

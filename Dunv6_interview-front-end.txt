@@ -1,0 +1,8 @@
+﻿1. Em học một công nghệ nmới trong bao lâu.
+2. Nếu như em phải tìm hiểu về công nghệ cũ rích (trước cả Pascal) thì em có học được không?
+3. em có biết về flash không?
+4. em có biết về SQL không, nếu như có cơ sở dữ liệu không phải là mySQL hoặc SQL thì em có tìm hiểu được không.??
+5. tại sao em lại theo .Net mà không phải java.
+6. ở trường thì em được học những cái j.
+7. em làm bn assignment trong quá trình học front-end ở FA.
+8.Em có OT,ON được không.

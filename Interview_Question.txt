@@ -1,0 +1,8 @@
+-Giới thiệu bản thân,
+-Boxing vs unboxing,
+-phân biệt public,static,void,
+-Overload vs override,
+-Join,các loại join,
+-TypeScipt là gì?,
+-WebApi là gì?,
+-Tại sao lại chọn theo Angular
